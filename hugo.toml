@@ -14,7 +14,7 @@ relativeURLs = false
     enabled = true
     title = "장양환"
     subtitle = "Cyber Security Learner"
-    imageUrl = "https://github.com/jueng9595.png"
+    imageUrl = "https://github.com/yh-j-log.png"
     imageWidth = 120 # 거대한 고양이 사진 방지
     imageHeight = 120
 [[params.profileMode.buttons]]
