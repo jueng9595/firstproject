@@ -1,7 +1,11 @@
-baseURL = 'https://jueng9595.github.io/firstproject/' # 본인 블로그 주소
-languageCode = 'ko-kr'
-title = 'Security Study Log' # 블로그 상단 제목
+baseURL = "https://jueng9595.github.io/firstproject/" # 끝에 /를 꼭 붙여주세요!
+languageCode = "ko-kr"
+title = "Security Study Log"
 theme = "PaperMod"
+
+# 아래 설정이 있어야 CSS가 경로를 제대로 찾습니다.
+relativeURLs = true
+canonifyURLs = true
 
 [params]
     env = 'production'
