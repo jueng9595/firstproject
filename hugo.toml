@@ -23,8 +23,8 @@ theme = "PaperMod"
      title = "장양환"
       subtitle = "Cyber Security Learner"
      imageUrl = "profilepicure.jpg"
-     imageWidth = 120
-     imageHeight = 120
+     imageWidth = 150
+     imageHeight = 150
 
     [[menu.main]]
     name = "Wargame"
